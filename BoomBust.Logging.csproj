@@ -8,9 +8,11 @@
     <Version>1.0.0</Version>
     <Authors>BoomBust</Authors>
     <Company>BoomBust</Company>
-    <Description>Reusable logging library for BetterStack integration with Serilog for .NET applications</Description>
+    <Description>Reusable logging library for BetterStack integration with Serilog for .NET
+      applications</Description>
     <PackageProjectUrl>https://github.com/JackBruzan/BoomBust.Logging</PackageProjectUrl>
     <RepositoryUrl>https://github.com/JackBruzan/BoomBust.Logging</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageTags>logging;serilog;betterstack;aspnetcore</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
